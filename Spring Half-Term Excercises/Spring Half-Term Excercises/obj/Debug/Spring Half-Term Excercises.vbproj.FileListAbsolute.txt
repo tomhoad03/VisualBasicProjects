@@ -1,0 +1,11 @@
+c:\users\tom hoad\documents\visual studio 2015\Projects\Spring Half-Term Excercises\Spring Half-Term Excercises\bin\Debug\Spring Half-Term Excercises.exe.config
+c:\users\tom hoad\documents\visual studio 2015\Projects\Spring Half-Term Excercises\Spring Half-Term Excercises\bin\Debug\Spring Half-Term Excercises.exe
+c:\users\tom hoad\documents\visual studio 2015\Projects\Spring Half-Term Excercises\Spring Half-Term Excercises\bin\Debug\Spring Half-Term Excercises.pdb
+c:\users\tom hoad\documents\visual studio 2015\Projects\Spring Half-Term Excercises\Spring Half-Term Excercises\bin\Debug\Spring Half-Term Excercises.xml
+c:\users\tom hoad\documents\visual studio 2015\Projects\Spring Half-Term Excercises\Spring Half-Term Excercises\obj\Debug\Spring Half-Term Excercises.vbprojResolveAssemblyReference.cache
+c:\users\tom hoad\documents\visual studio 2015\Projects\Spring Half-Term Excercises\Spring Half-Term Excercises\obj\Debug\Spring_Half_Term_Excercises.Excercises.resources
+c:\users\tom hoad\documents\visual studio 2015\Projects\Spring Half-Term Excercises\Spring Half-Term Excercises\obj\Debug\Spring_Half_Term_Excercises.Resources.resources
+c:\users\tom hoad\documents\visual studio 2015\Projects\Spring Half-Term Excercises\Spring Half-Term Excercises\obj\Debug\Spring Half-Term Excercises.vbproj.GenerateResource.Cache
+c:\users\tom hoad\documents\visual studio 2015\Projects\Spring Half-Term Excercises\Spring Half-Term Excercises\obj\Debug\Spring Half-Term Excercises.exe
+c:\users\tom hoad\documents\visual studio 2015\Projects\Spring Half-Term Excercises\Spring Half-Term Excercises\obj\Debug\Spring Half-Term Excercises.xml
+c:\users\tom hoad\documents\visual studio 2015\Projects\Spring Half-Term Excercises\Spring Half-Term Excercises\obj\Debug\Spring Half-Term Excercises.pdb

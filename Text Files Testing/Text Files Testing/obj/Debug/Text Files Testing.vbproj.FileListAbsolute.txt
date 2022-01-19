@@ -1,0 +1,11 @@
+c:\users\tom hoad\documents\visual studio 2015\Projects\Text Files Testing\Text Files Testing\bin\Debug\Text Files Testing.exe.config
+c:\users\tom hoad\documents\visual studio 2015\Projects\Text Files Testing\Text Files Testing\bin\Debug\Text Files Testing.exe
+c:\users\tom hoad\documents\visual studio 2015\Projects\Text Files Testing\Text Files Testing\bin\Debug\Text Files Testing.pdb
+c:\users\tom hoad\documents\visual studio 2015\Projects\Text Files Testing\Text Files Testing\bin\Debug\Text Files Testing.xml
+c:\users\tom hoad\documents\visual studio 2015\Projects\Text Files Testing\Text Files Testing\obj\Debug\Text Files Testing.vbprojResolveAssemblyReference.cache
+c:\users\tom hoad\documents\visual studio 2015\Projects\Text Files Testing\Text Files Testing\obj\Debug\Text_Files_Testing.Form1.resources
+c:\users\tom hoad\documents\visual studio 2015\Projects\Text Files Testing\Text Files Testing\obj\Debug\Text_Files_Testing.Resources.resources
+c:\users\tom hoad\documents\visual studio 2015\Projects\Text Files Testing\Text Files Testing\obj\Debug\Text Files Testing.vbproj.GenerateResource.Cache
+c:\users\tom hoad\documents\visual studio 2015\Projects\Text Files Testing\Text Files Testing\obj\Debug\Text Files Testing.exe
+c:\users\tom hoad\documents\visual studio 2015\Projects\Text Files Testing\Text Files Testing\obj\Debug\Text Files Testing.xml
+c:\users\tom hoad\documents\visual studio 2015\Projects\Text Files Testing\Text Files Testing\obj\Debug\Text Files Testing.pdb
